@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="download" size="50.000000 53.456223" />
+    <ImageTarget name="logo_car" size="50.000000 50.000000" />
+    <ImageTarget name="cocacola" size="50.000000 16.601562" />
+    <ImageTarget name="logo_polinema" size="50.000000 50.417660" />
+  </Tracking>
+</QCARConfig>
